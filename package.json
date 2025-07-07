@@ -1,0 +1,25 @@
+{
+  "name": "info-site",
+  "version": "1.0.0",
+  "description": "Basic information site",
+  "keywords": [],
+  "homepage": "https://github.com/Mutisostud02/Node-info-site#readme",
+  "bugs": {
+    "url": "https://github.com/Mutisostud02/Node-info-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutisostud02/Node-info-site.git"
+  },
+  "license": "ISC",
+  "author": "Christopher Nthusi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
